@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.HTML" Version="18.7.0" />
+    <PackageReference Include="ExtentReports" Version="4.1.0" />
+    <PackageReference Include="HtmlRenderer.PdfSharp" Version="1.5.0.6" />
+    <PackageReference Include="HtmlSharp" Version="1.5.0" />
+    <PackageReference Include="HtmlSharp.Pdf" Version="0.1.1" />
+    <PackageReference Include="IronPdf" Version="4.4.5" />
+    <PackageReference Include="iTextSharp" Version="5.5.13.3" />
+    <PackageReference Include="itextsharp.xmlworker" Version="5.5.13.3" />
+    <PackageReference Include="NUnit" Version="3.10.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
+    <PackageReference Include="PdfSharp" Version="1.50.5147" />
+    <PackageReference Include="PDFSharp.Standard" Version="1.51.15" />
+    <PackageReference Include="SautinSoft.PdfVision" Version="6.3.3.7" />
+    <PackageReference Include="Select.HtmlToPdf" Version="22.2.0" />
+    <PackageReference Include="Select.Pdf" Version="22.2.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="5.0.0" />
+  </ItemGroup>
+
+</Project>
